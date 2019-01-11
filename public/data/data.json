@@ -1,0 +1,20 @@
+{
+    "code": 1000,
+    "data": {
+        "name": "vue",
+        "list": [
+            {
+                "name": "Lisa",
+                "age": 32
+            },
+            {
+                "name": "Jenner",
+                "age": 28
+            },
+            {
+                "name": "Sami",
+                "age": 37
+            }
+        ]
+    }
+}

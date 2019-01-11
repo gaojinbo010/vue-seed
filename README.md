@@ -1,2 +1,3 @@
 # vue-seed
-vue seed project
+A simple vue project.
+vue vuex 
